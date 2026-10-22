@@ -1,4 +1,4 @@
-certifi==2022.9.24
+certifi==2026.10.19
 charset-normalizer==2.1.1
 fritzconnection==1.10.3
 idna==3.4
